@@ -1,0 +1,14 @@
+#
+#
+#  Set defaults for Cluster, Track and FinalHectorMomentum reconstruction 
+#                         in CMSSW_2_1_X
+#
+#
+
+include "RecoRomanPot/RecoFP420/data/FP420Cluster.cfi"
+include "RecoRomanPot/RecoFP420/data/FP420Track.cfi"
+include "RecoRomanPot/RecoFP420/data/FP420Reco.cfi"
+
+#
+#
+
